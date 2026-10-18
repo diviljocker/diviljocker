@@ -1,48 +1,147 @@
+
+<!--
+  NIDHIN | AI FREELANCER
+  Replace YOUR-GITHUB-USERNAME with your GitHub username.
+-->
+
 <div align="center">
 
-  <!-- 3D Banner Header -->
-  <a href="https://github.com/yourusername">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Hi%20there,%20I'm%20Nidhin%20👋&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:123C69,100:00E5FF&text=NIDHIN&fontColor=FFFFFF&fontSize=70&fontAlignY=38&desc=AI%20Freelancer%20%7C%20Agent%20Builder%20%7C%20Vibe%20Coder&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
-  <!-- 3D Floating Mascot / AI Graphic -->
-  <br />
-  <a href="https://github.com/yourusername">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/brain.svg" width="120" height="120" alt="AI Brain Logo" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+AI+Agents+%F0%9F%A4%96;Turning+Ideas+Into+Products+%F0%9F%9A%80;Vibe+Coding+%7C+Prompt+Engineering;Creating+With+AI%2C+One+Prompt+At+A+Time" alt="Animated introduction" />
 
-  <h2>🤖 Independent AI & Machine Learning Freelancer</h2>
+<br/>
 
-  <p align="center">
-    <i>"Transforming complex data & LLMs into powerful, scalable commercial AI solutions."</i>
-  </p>
+**AI Freelancer • AI Agent Builder • Vibe Coder • Prompt Engineer**
 
-  <!-- Quick Info Badges -->
-  <p align="center">
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://upwork.com"><img src="https://img.shields.io/badge/Upwork-Freelance-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-  </p>
+*I turn ideas into intelligent solutions using AI, automation, and code.*
+
+<br/>
+
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+<img src="https://img.shields.io/badge/AI-Powered-00E5FF?style=for-the-badge&logo=openai&logoColor=black" alt="AI Powered"/>
+<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge" alt="Always Learning"/>
 
 </div>
 
 ---
 
-### 🚀 What I Do
+## 🧠 About Me
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 AI & Generative Intelligence</h3>
-      <p>
-        • Custom RAG (Retrieval-Augmented Generation) Pipelines<br>
-        • LLM Fine-Tuning (LLaMA, Mistral, OpenAI API)<br>
-        • Intelligent AI Agents & Autonomous Workflows<br>
-        • Prompt Engineering & Vector Databases
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👁️ Computer Vision & NLP</h3>
-      <p>
-        • Real-time Object Detection & Tracking (YOLO, OpenCV)<br>
-        • Image Segmentation
+Hey, I'm **Nidhin** 👋
+
+I'm an AI-focused freelancer passionate about building useful digital products, intelligent agents, and creative solutions.
+
+- 🤖 **AI Agent Building** — creating AI-powered workflows and assistants.
+- ⚡ **Vibe Coding** — turning ideas into working applications with AI-assisted coding.
+- 🧠 **Prompt Engineering** — designing prompts for better AI outputs.
+- 🚀 **AI Freelancing** — exploring smart solutions for real-world business problems.
+- 🛠️ **Automation** — finding ways to reduce repetitive work using AI.
+- 🌱 **Currently Learning** — AI tools, agentic workflows, and modern development.
+
+> My goal: Build smarter, automate better, and turn creative ideas into reality.
+
+---
+
+## 🛠️ My AI Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" alt="Development skills"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/AI_Agents-00BFA6?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/Vibe_Coding-FF6B35?style=for-the-badge&logo=rocket&logoColor=white" alt="Vibe Coding"/>
+<img src="https://img.shields.io/badge/Workflow_Automation-2563EB?style=for-the-badge&logo=n8n&logoColor=white" alt="Automation"/>
+
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Agents
+Building intelligent assistants that can handle tasks, use tools, and automate workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Vibe Coding
+Prototyping websites, tools, and applications by combining creativity with AI-assisted coding.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Prompt Engineering
+Creating structured prompts and reusable workflows for more reliable AI results.
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 AI Freelancing
+Exploring AI-powered content, business automation, and custom digital solutions for clients.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" alt="GitHub contribution streak" width="75%"/>
+
+</div>
+
+---
+
+## 🌌 My 3D GitHub Universe
+
+<div align="center">
+
+<!-- Generated by the GitHub Actions workflow below -->
+<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub contribution graph"/>
+
+</div>
+
+---
+
+## 💡 My Philosophy
+
+<div align="center">
+
+### Think with AI. Build with code. Create without limits.
+
+*"The future belongs to people who can turn ideas into action."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,100:7C3AED&section=footer" width="100%"/>
+
+**Let's build something intelligent. 🤖**
+
+<a href="https://github.com/YOUR-GITHUB-USERNAME">Explore My Projects</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
