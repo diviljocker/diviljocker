@@ -1,8 +1,14 @@
 <!-- NIDHIN | AI FREELANCER | GitHub: diviljocker -->
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:123C69,100:00E5FF&text=NIDHIN&fontColor=FFFFFF&fontSize=70&fontAlignY=38&desc=AI%20Freelancer%20%7C%20Agent%20Builder&descSize=20&descColor=9BE9FF" alt="Nidhin banner" width="100%" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"
+     width="95%"
+     alt="3D GitHub contribution graph"/>
+
+</div>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+AI+Agents+%F0%9F%A4%96;Turning+Ideas+into+Products+%F0%9F%9A%80;Prompting+Better+AI+Workflows+%F0%9F%9A%99" alt="Typing banner" />
 
