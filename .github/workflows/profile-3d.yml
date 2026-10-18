@@ -1,4 +1,3 @@
-
 name: Generate 3D Contribution Graph
 
 on:
@@ -16,9 +15,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps: 
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate 3D profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
