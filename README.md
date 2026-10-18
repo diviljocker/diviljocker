@@ -1,25 +1,22 @@
 
-<!--
-  NIDHIN | AI FREELANCER
-  Replace YOUR-GITHUB-USERNAME with your GitHub username.
--->
+<!-- NIDHIN | AI FREELANCER | GitHub: divijocker -->
 
 <div align="center">
-divijocker
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:123C69,100:00E5FF&text=NIDHIN&fontColor=FFFFFF&fontSize=70&fontAlignY=38&desc=AI%20Freelancer%20%7C%20Agent%20Builder%20%7C%20Vibe%20Coder&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
-divijocker
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+AI+Agents+%F0%9F%A4%96;Turning+Ideas+Into+Products+%F0%9F%9A%80;Vibe+Coding+%7C+Prompt+Engineering;Creating+With+AI%2C+One+Prompt+At+A+Time" alt="Animated introduction" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:123C69,100:00E5FF&text=NIDHIN&fontColor=FFFFFF&fontSize=70&fontAlignY=38&desc=AI%20Freelancer%20%7C%20Agent%20Builder%20%7C%20Vibe%20Coder&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Nidhin AI banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+AI+Agents+%F0%9F%A4%96;Turning+Ideas+Into+Products+%F0%9F%9A%80;Vibe+Coding+%7C+Prompt+Engineering;Creating+With+AI%2C+One+Prompt+At+A+Time" alt="Animated introduction"/>
 
 <br/>
 
 **AI Freelancer • AI Agent Builder • Vibe Coder • Prompt Engineer**
 
-*I turn ideas into intelligent solutions using AI, automation, and code.*
+*Turning ideas into intelligent solutions with AI, automation, and code.*
 
 <br/>
 
-<a href="https://github.com/YOUR-GITHUB-divijocker">
-  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+<a href="https://github.com/divijocker">
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 <img src="https://img.shields.io/badge/AI-Powered-00E5FF?style=for-the-badge&logo=openai&logoColor=black" alt="AI Powered"/>
 <img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge" alt="Always Learning"/>
@@ -36,9 +33,9 @@ I'm an AI-focused freelancer passionate about building useful digital products, 
 
 - 🤖 **AI Agent Building** — creating AI-powered workflows and assistants.
 - ⚡ **Vibe Coding** — turning ideas into working applications with AI-assisted coding.
-- 🧠 **Prompt Engineering** — designing prompts for better AI outputs.
+- 🧠 **Prompt Engineering** — designing effective prompts for better AI outputs.
 - 🚀 **AI Freelancing** — exploring smart solutions for real-world business problems.
-- 🛠️ **Automation** — finding ways to reduce repetitive work using AI.
+- 🛠️ **Automation** — reducing repetitive work using AI.
 - 🌱 **Currently Learning** — AI tools, agentic workflows, and modern development.
 
 > My goal: Build smarter, automate better, and turn creative ideas into reality.
@@ -69,13 +66,15 @@ I'm an AI-focused freelancer passionate about building useful digital products, 
 <td width="50%" valign="top">
 
 ### 🤖 AI Agents
-Building intelligent assistants that can handle tasks, use tools, and automate workflows.
+
+Building intelligent assistants that can use tools, complete tasks, and automate workflows.
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ Vibe Coding
-Prototyping websites, tools, and applications by combining creativity with AI-assisted coding.
+
+Turning ideas into websites, applications, and useful digital tools with AI-assisted coding.
 
 </td>
 </tr>
@@ -83,13 +82,15 @@ Prototyping websites, tools, and applications by combining creativity with AI-as
 <td width="50%" valign="top">
 
 ### 🧠 Prompt Engineering
-Creating structured prompts and reusable workflows for more reliable AI results.
+
+Creating structured prompts and reusable workflows for better AI results.
 
 </td>
 <td width="50%" valign="top">
 
 ### 💼 AI Freelancing
-Exploring AI-powered content, business automation, and custom digital solutions for clients.
+
+Exploring AI-powered content creation, business automation, and custom digital solutions.
 
 </td>
 </tr>
@@ -101,14 +102,14 @@ Exploring AI-powered content, business automation, and custom digital solutions 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-divijocker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=divijocker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-divijockerUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divijocker&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" alt="Most used languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB divijocker&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" alt="GitHub contribution streak" width="75%"/>
-divijocker
+<img src="https://streak-stats.demolab.com?user=divijocker&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" width="75%" alt="GitHub contribution streak"/>
+
 </div>
 
 ---
@@ -117,8 +118,7 @@ divijocker
 
 <div align="center">
 
-<!-- Generated by the GitHub Actions workflow below -->
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-divijocker/YOUR-GITHUB-divijocker/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub contribution graph"/>
+<img src="https://raw.githubusercontent.com/divijocker/divijocker/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub contribution graph"/>
 
 </div>
 
@@ -134,14 +134,14 @@ divijocker
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,100:7C3AED&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,100:7C3AED" width="100%" alt="Decorative divider"/>
 
 **Let's build something intelligent. 🤖**
 
-<a href="https://github.com/YOUR-GITHUB-divijocker">Explore My Projects</a>
-divijocker
+<a href="https://github.com/divijocker">Explore My Projects</a>
+
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?divijocker=YOUR-GITHUB-USERNAME&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=divijocker&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
